@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding:0;
+}
+input[type="text"], select{
+    width:400px;
+}
+.eye{
+    color: #337ab7;
+}
